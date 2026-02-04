@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I´m an eletronics student look for knowledge and fun in the programming world <3</p>
+<p align="left">I´m an eletronics student looking for some knowledge and fun in the programming world <3</p>
 
 ###
 
