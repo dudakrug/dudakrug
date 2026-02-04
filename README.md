@@ -8,7 +8,7 @@
 
 <h3 align="left">Skils</h3>
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
