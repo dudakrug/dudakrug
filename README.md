@@ -8,6 +8,8 @@
 
 <h3 align="left">Skils</h3>
 
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
   <img width="12" />
@@ -19,6 +21,8 @@
 ###
 
 <h3 align="left">Socials</h3>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eduarda-krug-996743340/" target="_blank">
