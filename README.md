@@ -8,9 +8,6 @@
 							▀███▀   ███▀  █▄ ▄█    █   █   ███▀     █     █     █    █▄ ▄█  ███
 								               ▀▀▀ █   ▀            █     ▀     ▀     ▀▀▀
 								                   ▀                ▀                     
-
-
-												Welcome to my GitHub profile!
 </pre>
 
 # 🚀 Stack
