@@ -15,6 +15,10 @@
 
 
 📊 GitHub Status
-<p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=dudakrug&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudakrug&layout=compact&hide_border=true" alt="Top Languages"/> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudakrug&hide_border=true" alt="GitHub Streak"/> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dudakrug&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dudakrug&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dudakrug&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
