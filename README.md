@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
-<p>Sou técnica em Eletrônica e, atualmente, participo da Residência Full Stack 5.0, do Instituto Eldorado em parceria com a Petrobras. Estou explorando Java, C e C++, gosto de resolver problemas de lógica e venho de uma base técnica em eletrônica que me ajuda a entender sistemas de ponta a ponta.</p>
+<p>Sou técnica em Eletrônica e, atualmente, participo da Residência Full Stack 5.0, do Instituto Eldorado em parceria com a Petrobras. Estou explorando Java com Spring Boot, C e C++, gosto de resolver problemas de lógica e venho de uma base técnica em eletrônica que me ajuda a entender sistemas de ponta a ponta.</p>
 
 - Ensino Médio Técnico em Eletrônica [Formação 2028]
 - Residente na Residência Full Stack 5.0 (Instituto Eldorado + Petrobras) [Formação 2026]
